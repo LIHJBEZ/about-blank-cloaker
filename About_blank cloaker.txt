@@ -1,0 +1,12 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>About:Blank Page</title>
+</head>
+<body>
+    <script>
+        // JavaScript code to open a new tab with specific content
+        window.open('https://www.example.com', '_blank');
+    </script>
+</body>
+</html>
